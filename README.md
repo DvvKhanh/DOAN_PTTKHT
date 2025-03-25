@@ -3,7 +3,7 @@
 
 # LÊN DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG, ĐỐI TƯỢNG SỬ DỤNG.
 
-## Chức năng của hệ thống
+## Các chức năng của hệ thống
 ### 1. Quản lý người dùng
 + Đăng ký, đăng nhập tài khoản thành viên.
 + Nạp tiền vào tài khoản, kiểm tra số dư.
