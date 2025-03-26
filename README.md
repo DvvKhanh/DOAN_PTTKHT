@@ -1,7 +1,7 @@
 # DOAN_PTTKHT
 # Đậu Văn Khánh_K225480106099
 
-# LÊN DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG, ĐỐI TƯỢNG SỬ DỤNG.
+# LÊN DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG, ĐỐI TƯỢNG SỬ DỤNG CHO ĐỀ TÀI QUẢN LÝ QUÁN INTERNET.
 
 ## Các chức năng của hệ thống
 ### 1. Quản lý người dùng
@@ -12,7 +12,7 @@
 ### 2. Quản lý máy tính(PC)
 + Danh sách máy tính (số máy, trạng thái: trống, đang sử dụng, bảo trì).
 + Đăng nhập/ đăng xuất máy tính theo tài khoản khách hàng.
-+ Cảnh báo khi máy gặp sự cố hoặc bảo định kỳ.
++ Cảnh báo khi máy gặp sự cố hoặc bảo hành định kỳ.
   
 ### 3. Quản lý dịch vụ
 + Danh sách sản phẩm (menu): đồ ăn, nước uống, giá cả.
